@@ -3,7 +3,7 @@ Certificates of all the relevant and completed courses along with their credenti
 
 # 1. DeepLearning.AI (Coursera)
 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning<br/>
-URL: https://www.coursera.org/account/accomplishments/certificate/2P7CA3Y3X2FL
+URL: https://www.coursera.org/account/accomplishments/certificate/2P7CA3Y3X2FL<br>
 ![co6 pdf](https://github.com/anantmehta33/Courses-Certifications/assets/87894541/dfeebd88-d8bb-4878-9b97-16e31b410ae9)
 
 # 2. DeepLearning.AI (Coursera)
