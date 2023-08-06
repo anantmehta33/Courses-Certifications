@@ -53,5 +53,8 @@ Natural Language Processing with Python<br/>
 URL: https://www.udemy.com/certificate/UC-a630e5a1-c1bc-4b3d-957b-d0bfcafbd86f/
 ![NLP-Udemy](https://github.com/anantmehta33/Courses-Certifications/assets/87894541/284dafb8-debd-4219-b84d-4c5fb31ef988)
 
-
+# 11. Intermediate Machine Learning  (Kaggle)
+Applied ML with Python<br/>
+URL: https://www.kaggle.com/learn/certification/anantmehta33/intermediate-machine-learning
+![Anant Mehta_33 - Intermediate Machine Learning](https://github.com/anantmehta33/Courses-Certifications/assets/87894541/cfb60e06-a033-4412-a889-adc8b5ac717a)
 
