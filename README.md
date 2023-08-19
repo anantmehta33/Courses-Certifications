@@ -59,4 +59,4 @@ URL: https://www.kaggle.com/learn/certification/anantmehta33/intermediate-machin
 ![Anant Mehta_33 - Intermediate Machine Learning](https://github.com/anantmehta33/Courses-Certifications/assets/87894541/cfb60e06-a033-4412-a889-adc8b5ac717a)
 
 # 12. Reviewer of Manuscript (Biomedical Signal Processing & Control)
-[Certificate_BSPC_Recognised.pdf](https://github.com/anantmehta33/Courses-Certifications/files/12386328/Certificate_BSPC_Recognised.pdf)
+![Certificate_BSPC_Recognised (1)-1](https://github.com/anantmehta33/Courses-Certifications/assets/87894541/27cb8056-fcd0-4a8b-a79a-0d616d687a2f)
